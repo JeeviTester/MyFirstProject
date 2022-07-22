@@ -7,5 +7,6 @@ public class SampleClass {
 		System.out.println("TEST A");
 		System.out.println("TEST B");
 		System.out.println("TEST C");
+		System.out.println("TEST A1");
 	}
 }
